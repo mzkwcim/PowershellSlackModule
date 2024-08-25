@@ -1,0 +1,1 @@
+This is just a fun project. I like to use powershell to complete my tasks and I've realised that it would be great to create module that would allow me to complete slack related tasks using powershell
